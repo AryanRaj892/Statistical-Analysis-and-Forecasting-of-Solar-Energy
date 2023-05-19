@@ -1,7 +1,7 @@
 # Statistical-Analysis-and-Forecasting-of-Solar-Energy
 Aim is to analyse solar energy for two study regions of Rajasthan. If possible, we may like to forecast solar energy for next week or even for next month.
 
-Obtain the hourly data for two solar parks in Rajasthan for 10 years.
+Obtain the hourly data for two solar parks in Rajasthan for 15 years.
 
 The data is merged in order of years for their corresponding solar parks.
 
@@ -18,6 +18,7 @@ Performed Auto-Regressive (AR), Moving-Average (MA), Auto-Regressive-Moving-Aver
 Files Description:-
 1) Merging: the hourly data has been merged in order of years
 2) ar: Auto-Regressiion applied on merged data
-3) dailyarima: ARIMA applied on daily data for 10 years (obtained by converting hourly to daily data)
-4) weeklyarima: ARIMA applied on weekly data for 10 years (obtained by converting hourly to weekly data)
-5) sarima: SARIMA applied on weekly data for 10 years (obtained by converting hourly to weekly data)
+3) dailyarima: ARIMA applied on daily data for 15 years (obtained by converting hourly to daily data)
+4) weeklyarima: ARIMA applied on weekly data for 15 years (obtained by converting hourly to weekly data)
+5) sarima: SARIMA applied on weekly data for 15 years (obtained by converting hourly to weekly data)
+CSV files are the hourly data for each year.
