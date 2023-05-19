@@ -20,5 +20,6 @@ Files Description:-
 2) ar: Auto-Regressiion applied on merged data
 3) dailyarima: ARIMA applied on daily data for 15 years (obtained by converting hourly to daily data)
 4) weeklyarima: ARIMA applied on weekly data for 15 years (obtained by converting hourly to weekly data)
-5) sarima: SARIMA applied on weekly data for 15 years (obtained by converting hourly to weekly data)
+5) sarima: SARIMA applied on weekly data for 15 years (obtained by converting hourly to weekly data.
+
 CSV files are the hourly data for each year.
