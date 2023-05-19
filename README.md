@@ -11,7 +11,7 @@ We have used GHI data of solar park Rajasthan-1 for time-series analysis.
 
 Data is cleaned and only the relevant features are kept.
 
-Performed several graphical plots or compute various descriptive statistics to understand the DHI, DNI, and GHI data, their correlation, etc.
+Performed several graphical plots and computed various descriptive statistics to understand the DHI, DNI, and GHI data, their correlation, etc.
 
 Performed Auto-Regressive (AR), Moving-Average (MA), Auto-Regressive-Moving-Average (ARMA), Auto-Regressive-Integrated-Moving-Average (ARIMA), and Seasonal-Auto-Regressive-Integrated-Moving-Average (SARIMA) statistical methods on the GHI data for daily/weekly forecasting.
 
